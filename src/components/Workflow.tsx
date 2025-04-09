@@ -8,11 +8,12 @@ export default function Workflow() {
   });
 
   const steps = [
-    "QR displays on Screen & OTP login",
+    "QR displays on Screen (or) OTP login",
     "User scans QR for machine to get User Info",
-    "Deposition inlet opens for plastic placement",
+    "Deposition inlet opens for plastic deposit",
     "Machine learning model verifies and sorts plastic",
-    "Database updates with transaction",
+    "Database updates with Eco points"
+    "User can choose reward with Eco points(Eg:- Coupons, Money & Eco Friendly Products)",
   ];
 
   return (
