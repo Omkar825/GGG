@@ -12,7 +12,7 @@ export default function Team() {
     {
       name: "Omkara Anjaneya Kumar",
       role: "Founder",
-      image: "images/Omkar.png",
+      image: "/Omkar.png",
       github: "https://github.com/Omkar825",
       linkedin: "https://www.linkedin.com/in/omkar-anjaneya-kumar/",
       email: "mailto:omkarratnala2565@gmail.com",
@@ -20,7 +20,7 @@ export default function Team() {
     {
       name: "Pavan Siva Kumar",
       role: "Founder",
-      image: "images/Pavan.png",
+      image: "/Pavan.png",
       github: "https://github.com/Pavan8114",
       linkedin: "https://www.linkedin.com/in/somana-pavan-siva-kumar/",
       email: "mailto:pavansivakumar27@gmail.com",
@@ -28,7 +28,7 @@ export default function Team() {
     {
       name: "Jnapika Naga Deepthi",
       role: "Marketing Lead",
-      image: "images/Deepthi.png",
+      image: "/Deepthi.png",
       github: "https://github.com/Jnapikapotturi?tab=repositories",
       linkedin: "https://www.linkedin.com/in/jnapika-naga-deepthi-potturi-53aa42268/",
       email: "mailto:pdeepthi.1902@gmail.com",
@@ -36,7 +36,7 @@ export default function Team() {
     {
       name: "Yuva Rami Reddy",
       role: "Logistics Lead",
-      image: "images/Yuva.png",
+      image: "/Yuva.png",
       github: "https://github.com/Yuva9848",
       linkedin: "https://www.linkedin.com/in/yuva-rami-reddy/",
       email: "mailto:gorakayuvaramireddy@gmail.com",
