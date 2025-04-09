@@ -40,7 +40,7 @@ export default function Prototype() {
             >
               <h3 className="text-2xl font-semibold mb-4">Mobile App</h3>
               <img
-                src="src/components/App_design.jpg"
+                src="App_design.jpg"
                 alt="Mobile App Interface"
                 className="w-full rounded-lg mb-4"
               />
