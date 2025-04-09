@@ -26,7 +26,7 @@ export default function Prototype() {
             >
               <h3 className="text-2xl font-semibold mb-4">Machine Design</h3>
               <img
-                src="src/components/machine.jpg"
+                src="images/machine.jpg"
                 alt="Recycling Machine Prototype"
                 className="w-full rounded-lg mb-4"
               />
@@ -40,7 +40,7 @@ export default function Prototype() {
             >
               <h3 className="text-2xl font-semibold mb-4">Mobile App</h3>
               <img
-                src="App_design.jpg"
+                src="images/App_design.jpg"
                 alt="Mobile App Interface"
                 className="w-full rounded-lg mb-4"
               />
