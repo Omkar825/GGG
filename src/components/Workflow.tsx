@@ -12,8 +12,8 @@ export default function Workflow() {
     "User scans QR for machine to get User Info",
     "Deposition inlet opens for plastic deposit",
     "Machine learning model verifies and sorts plastic",
-    "Database updates with Eco points"
-    "User can choose reward with Eco points(Eg:- Coupons, Money & Eco Friendly Products)",
+    "Database updates with Eco points",
+    "User can choose reward with Eco points(Eg:- Coupons, Money & Eco Friendly Products)"
   ];
 
   return (
