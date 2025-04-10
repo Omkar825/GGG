@@ -123,7 +123,7 @@ export default function Hero() {
             className="relative inline-block"
           >
             <p className="text-3xl text-gray-600 mb-12">
-              Turn your bottles in, watch the nature win
+              Turn your plastic in, watch the nature win
             </p>
             <motion.div
               initial={{ width: 0 }}
