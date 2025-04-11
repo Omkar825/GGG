@@ -27,7 +27,7 @@ export default function Team() {
     },
     {
       name: "Jnapika Naga Deepthi",
-      role: "Marketing Lead",
+      role: "CEO",
       image: "/Deepthi.png",
       github: "https://github.com/Jnapikapotturi?tab=repositories",
       linkedin: "https://www.linkedin.com/in/jnapika-naga-deepthi-potturi-53aa42268/",
